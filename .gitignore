@@ -1,0 +1,6 @@
+.env
+out/
+drafts/*.local.md
+__pycache__/
+*.pyc
+.DS_Store
